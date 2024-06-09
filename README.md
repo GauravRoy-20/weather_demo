@@ -7,7 +7,7 @@ This is a simple weather demo project built with React. It allows users to searc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-demo.git
+   git clone https://github.com/GauravRoy-20/weather_demo.git
    ```
 
 2. Navigate into the project directory:
